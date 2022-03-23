@@ -38,25 +38,30 @@
 - 疑似高相似度文獻提醒顯示
 
 ## 相關程式畫面
-### 登入註冊<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
+### 整體分析<br>
+<img src="https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/1.png">
 <br>
 
-### 使用者介面<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/2.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/3.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/4.png">
+### 逐行分析<br>
+<img src="https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/2.png">
 <br>
 
-### 管理者介面<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/5.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/6.png">
+### 內容即時顯示<br>
+<img src="https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/3.png">
 <br>
+
+### 文獻處理<br>
+<img src="https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/4.png">
+<br>
+
+### 影片DEMO展示
+[![IMAGE ALT TEXT HERE](https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/5.png)](https://www.youtube.com/watch?v=S41KaBP3FmA)
 
 ## 製作過程與困難點
-在實作該專案的過程中，有嘗試想要實際讓資料庫可以被外部來連接，<br>
-達成實際直接遠端資料庫的功能，<br>
-所以在網路這方面有另外研究了關於虛擬伺服器的功能，<br>
-讓實作出來的程式也能透過外部裝置來進行連線。
+在實作該專案的過程中，<br>
+因為也是第一次實作類似BI儀表板功能的專案，<br>
+在圖表呈現的構思上有想了一下子，<br>
+最後決定將整體分析使用圓餅圖、逐行分析使用長條圖。<br>
+另外在資料相似度分析的部分，這些也都是到了研究所才學習到的功能，<br>
+加上實作的MVVM和Fetch API的運用，<br>
+皆是透過此次的專案來進行實作，也算是蠻有幫助的一個專案。<br>
