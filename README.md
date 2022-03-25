@@ -54,7 +54,7 @@
 <img src="https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/4.png">
 <br>
 
-### 影片DEMO展示
+### 影片DEMO展示 (點下方圖片進入觀看)
 [![IMAGE ALT TEXT HERE](https://github.com/lfre84216/LiterarySimilarityComparison/blob/main/5.png)](https://www.youtube.com/watch?v=S41KaBP3FmA)
 
 ## 製作過程與困難點
