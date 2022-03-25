@@ -17,7 +17,7 @@
 - 原生JavaScript
 - ChartJS
 - Flask
-- Fetch
+- JSON+Fetch
 - Jieba
 - TF-IDF
 - Jaccard Similarity
